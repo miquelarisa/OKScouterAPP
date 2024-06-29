@@ -1,0 +1,480 @@
+{
+    "periodo":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "1",
+            "label": "1"
+        },
+        {
+            "value": "2",
+            "label": "2"
+        }
+    ],
+    "diferenciaMarcador":[
+        {
+            "value": "G+",
+            "label": "G+"
+        },
+        {
+            "value": "G1",
+            "label": "G1"
+        },
+        {
+            "value": "E",
+            "label": "E"
+        },
+        {
+            "value": "E0",
+            "label": "E0"
+        },
+        {
+            "value": "P1",
+            "label": "P1"
+        },
+        {
+            "value": "P+",
+            "label": "P+"
+        }
+    ],
+    "situacionJuego":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "4x4",
+            "label": "4x4"
+        },
+        {
+            "value": "4x3",
+            "label": "4x3"
+        },
+        {
+            "value": "5x4",
+            "label": "5x4"
+        },
+        {
+            "value": "3x4",
+            "label": "3x4"
+        },
+        {
+            "value": "4x5",
+            "label": "4x5"
+        }
+    ],
+    "faseJuego":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Recuperacion campo rival",
+            "label": "Recuperacion campo rival"
+        },
+        {
+            "value": "Transicion",
+            "label": "Transicion"
+        },
+        {
+            "value": "Contrataque",
+            "label": "Contrataque"
+        },
+        {
+            "value": "Posicional",
+            "label": "Posicional"
+        },
+        {
+            "value": "Post BP",
+            "label": "Post BP"
+        },
+        {
+            "value": "Falta",
+            "label": "Falta"
+        }
+    ],
+    "contraRec":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "2x1",
+            "label": "2x1"
+        },
+        {
+            "value": "3x2",
+            "label": "3x2"
+        }
+    ],
+    "tipoGol":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Lanzamiento",
+            "label": "Lanzamiento"
+        },
+        {
+            "value": "1xP",
+            "label": "1xP"
+        },
+        {
+            "value": "Remate",
+            "label": "Remate"
+        },
+        {
+            "value": "Rebote",
+            "label": "Rebote"
+        },
+        {
+            "value": "Desvío",
+            "label": "Desvío"
+        },
+        {
+            "value": "Det. port",
+            "label": "Det. port"
+        },
+        {
+            "value": "Propia",
+            "label": "Propia"
+        }
+    ],
+    "accionPortero":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Pantalla",
+            "label": "Pantalla"
+        },
+        {
+            "value": "Rodilla",
+            "label": "Rodilla"
+        },
+        {
+            "value": "Laterales",
+            "label": "Laterales"
+        },
+        {
+            "value": "Cuclillas",
+            "label": "Cuclillas"
+        },
+        {
+            "value": "Paso de valla",
+            "label": "Paso de valla"
+        },
+        {
+            "value": "Otro",
+            "label": "Otro"
+        }
+    ],
+    "lado":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Izquierda",
+            "label": "Izquierda"
+        },
+        {
+            "value": "Centro",
+            "label": "Centro"
+        },
+        {
+            "value": "Derecha",
+            "label": "Derecha"
+        }
+    ],
+    "cuenta":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "0",
+            "label": "0"
+        },
+        {
+            "value": "1",
+            "label": "1"
+        },
+        {
+            "value": "2",
+            "label": "2"
+        },
+        {
+            "value": "3",
+            "label": "3"
+        },
+        {
+            "value": "4",
+            "label": "4"
+        },
+        {
+            "value": "5",
+            "label": "5"
+        },
+        {
+            "value": "6",
+            "label": "6"
+        },
+        {
+            "value": "7",
+            "label": "7"
+        },
+        {
+            "value": "8",
+            "label": "8"
+        },
+        {
+            "value": "9",
+            "label": "9"
+        },
+        {
+            "value": "10",
+            "label": "10"
+        }
+    ],
+    "ladoPorteria":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "-2",
+            "label": "-2"
+        },
+        {
+            "value": "-1",
+            "label": "-1"
+        },
+        {
+            "value": "0",
+            "label": "0"
+        },
+        {
+            "value": "1",
+            "label": "1"
+        },
+        {
+            "value": "2",
+            "label": "2"
+        }
+    ],
+    "alturaPorteria":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Alta",
+            "label": "Alta"
+        },
+        {
+            "value": "Medio alta",
+            "label": "Medio alta"
+        },
+        {
+            "value": "Palmo",
+            "label": "Palmo"
+        },
+        {
+            "value": "Rasa",
+            "label": "Rasa"
+        }
+    ],
+    "genero":[
+        {
+            "value": "Masculino",
+            "label": "Masculino"
+        },
+        {
+            "value": "Femenino",
+            "label": "Femenino"
+        }
+    ],
+    "position":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Jugador",
+            "label": "Jugador"
+        },
+        {
+            "value": "Portero",
+            "label": "Portero"
+        }
+    ],
+    "laterality":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "JD",
+            "label": "JD"
+        },
+        {
+            "value": "PD",
+            "label": "PD"
+        },
+        {
+            "value": "JZ",
+            "label": "JZ"
+        },
+        {
+            "value": "PZ",
+            "label": "PZ"
+        }
+    ],
+    "posicioninicial":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Adelantado",
+            "label": "Adelantado"
+        },
+        {
+            "value": "Junto",
+            "label": "Junto"
+        },
+        {
+            "value": "Separado",
+            "label": "Separado"
+        }
+    ],
+    "timmi":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "1",
+            "label": "1"
+        },
+        {
+            "value": "2",
+            "label": "2"
+        },
+        {
+            "value": "3",
+            "label": "3"
+        },
+        {
+            "value": "4",
+            "label": "4"
+        },
+        {
+            "value": "5",
+            "label": "5"
+        }
+    ],
+    "ejecucion":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Disparo",
+            "label": "Disparo"
+        },
+        {
+            "value": "Av y disparo",
+            "label": "Av y disparo"
+        },
+        {
+            "value": "Dribling",
+            "label": "Dribling"
+        },
+        {
+            "value": "Levanta y pica",
+            "label": "Levanta y pica"
+        }
+    ],
+    "finalizacion":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Pala",
+            "label": "Pala"
+        },
+        {
+            "value": "Cuchara",
+            "label": "Cuchara"
+        },
+        {
+            "value": "1 mano",
+            "label": "1 mano"
+        }
+    ],
+    "zonafinalizacion":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Derecha",
+            "label": "Derecha"
+        },
+        {
+            "value": "Centro",
+            "label": "Centro"
+        },
+        {
+            "value": "Izquierda",
+            "label": "Izquierda"
+        }
+    ],
+    "resultado":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Gol",
+            "label": "Gol"
+        },
+        {
+            "value": "Parada",
+            "label": "Parada"
+        },
+        {
+            "value": "Fuera",
+            "label": "Fuera"
+        },
+        {
+            "value": "Palo",
+            "label": "Palo"
+        },
+        {
+            "value": "Robo",
+            "label": "Robo"
+        }
+    ],
+    "usostick":[
+        {
+            "value": "",
+            "label": ""
+        },
+        {
+            "value": "Si",
+            "label": "Si"
+        },
+        {
+            "value": "No",
+            "label": "No"
+        }
+    ]
+}

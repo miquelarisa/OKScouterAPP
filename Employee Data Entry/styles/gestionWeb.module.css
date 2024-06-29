@@ -1,0 +1,152 @@
+.layout {
+  width: 100%;
+  height: 100%;
+  background-image:url("/images/fondos/background1.png");
+  background-position: initial;
+  background-repeat: repeat;
+  background-color: black;
+
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+
+  display: grid;
+  grid:
+    "header" 210px
+    "main" 550px
+    "footer" 20px
+    / 100%;
+  gap: 0px;
+}
+
+.layout2 {
+  width: 100%;
+  height: 100%;
+  background-image:url("/images/fondos/background1.png");
+  background-position: initial;
+  background-repeat: repeat;
+  background-color: black;
+
+  min-height: 100%;
+  min-width: 1024px;
+  width: 100%;
+  height: auto;
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+
+  display: grid;
+  grid:
+    "header" 0%
+    "main" 100%
+    "footer" 0%
+    / 100%;
+  gap: 0px;
+}
+
+.header { 
+  grid-area: header; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.main { 
+  grid-area: main;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer { 
+  grid-area: footer; 
+}
+
+.layout2cols {
+  width: 100%;
+  height: 70%;
+
+  display: grid;
+  grid:
+    "left2cols right2cols" 1fr
+    / 50% 50%;
+  gap: 0px;
+}
+
+.left2cols { grid-area: left2cols; }
+.right2cols { grid-area: right2cols; }
+
+.text{
+  font-size: 20px;
+  color: white;
+  margin-left: 20px;
+}
+
+.centerChildren{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: left;
+  align-items: center;
+}
+
+.centerChildren2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.centerChildren3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.centerChildrenatTop {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100%;
+}
+
+.centerItems{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.pairIcon {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-bottom: 10px;
+}
+.pairIcon2{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.logincontainer{
+  width: 400px;
+  height: 500px;
+  background-image:url("/images/fondos/background1.png");
+  background-color: rgba(0,0,0,0.82);
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: -200px;
+  -webkit-box-shadow: 0px 0px 30px 10px rgba(0,0,0,0.82); 
+  box-shadow: 0px 0px 30px 5px rgba(150,150,150,0.5);
+}

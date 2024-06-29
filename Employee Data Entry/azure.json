@@ -1,0 +1,26 @@
+{
+    "clientId": "40b80c78-b1af-4e14-b284-68154d9ceb35",
+    "clientSecret": "EYD8Q~e35RVDMLdErC-c1e~nOJMk5hYzQLUsVaS5",
+    "subscriptionId": "eaec496c-e4f9-4f08-9341-08cdd03c010d",
+    "tenantId": "1019e2a7-002d-4cfc-afa2-4e56f17e0565",
+    "activeDirectoryEndpointUrl": "https://login.microsoftonline.com",
+    "resourceManagerEndpointUrl": "https://management.azure.com/",
+    "activeDirectoryGraphResourceId": "https://graph.windows.net/",
+    "sqlManagementEndpointUrl": "https://management.core.windows.net:8443/",
+    "galleryEndpointUrl": "https://gallery.azure.com/",
+    "managementEndpointUrl": "https://management.core.windows.net/",
+
+
+    "canDelegate": null,
+    "condition": null,
+    "conditionVersion": null,
+    "description": null,
+    "id": "/subscriptions/eaec496c-e4f9-4f08-9341-08cdd03c010d/resourceGroups/okscouter/providers/Microsoft.ContainerRegistry/registries/miquelarisa/providers/Microsoft.Authorization/roleAssignments/3d8d66ec-3906-45cc-be5e-12409099dd7d",
+    "name": "3d8d66ec-3906-45cc-be5e-12409099dd7d",
+    "principalId": "62e3ed52-d8cb-497d-8e09-8d0ec21179e7",
+    "principalType": "ServicePrincipal",
+    "resourceGroup": "okscouter",
+    "roleDefinitionId": "/subscriptions/eaec496c-e4f9-4f08-9341-08cdd03c010d/providers/Microsoft.Authorization/roleDefinitions/8311e382-0749-4cb8-b61a-304f252e45ec",
+    "scope": "/subscriptions/eaec496c-e4f9-4f08-9341-08cdd03c010d/resourceGroups/okscouter/providers/Microsoft.ContainerRegistry/registries/miquelarisa",
+    "type": "Microsoft.Authorization/roleAssignments"
+}

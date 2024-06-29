@@ -1,0 +1,20 @@
+version: "3"
+
+services:
+    # This service runs the nginx reverse proxy and acts as the public face of the app.
+    okscouter:
+        # Internal name of the container.
+        container_name: "okscouter"
+
+        # The target image of Azure where it will be pushed.
+        image: miquelarisa.azurecr.io/webokscouter_okscouter:latest
+
+        # Restart always if the process terminates by whatever non-intentional reason.
+        restart: unless-stopped
+
+        # Build instructions:
+        build:
+            # Context is the current
+            context: ./
+            dockerfile: Dockerfile
+        ports: ['3000:3000']

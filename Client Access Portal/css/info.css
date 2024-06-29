@@ -1,0 +1,82 @@
+* {
+    color: white;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;
+}
+body {
+    min-height: 100vh;
+    min-width: 100vw;
+    background-color: #000000;
+    margin-left: 50px;
+}
+p {
+    font-size: 22px;
+    font-weight:450;
+}
+h3 {
+    font-size: 22px;
+    font-weight:bold;
+}
+h4 {
+    font-size: 14px;
+    font-style:italic;
+}
+img {
+    display: block;
+    z-index: 1;
+}
+
+.flex-flex {
+    display: block;
+}
+
+.logo {
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.llegenda {
+    position: absolute;
+    left: 800px;
+    top: 375px;
+}
+
+.scout {
+    position: absolute;
+    left: 800px;
+    top: 375px;
+}
+
+.button {
+    position: absolute;
+    left: 500px;
+    top: 100px;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 20px;
+    color: rgba(255, 0, 0, 0);
+    padding: 16px 64px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  
+  .button3 {
+    background-color: transparent; 
+    color: red; 
+    border: 2px solid rgb(255, 0, 0);
+  }
+  
+  .button3:hover {
+    background-color: red;
+    color: black;
+    font-weight: 600;
+  }
+
+  .prova {
+      background-color: #000000;
+  }
