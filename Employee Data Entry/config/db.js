@@ -8,9 +8,9 @@ const pool = createPool({
     database: 'okscouter_db'*/
 
     database: "okscouter_db",
-    user: "ovwx6fr8jyzy",
+    user: "",
     host: "wqdnqcd7f05t.eu-west-2.psdb.cloud",
-    password: "pscale_pw_OahRKXlzeN9LtWb3oYdEqdRuO2KQKJY9m4GjTw-S8Dc",
+    password: "",
     ssl: {
         rejectUnauthorized: false
     }
